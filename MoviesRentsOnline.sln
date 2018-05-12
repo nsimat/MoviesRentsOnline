@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesRentsOnline", "MoviesRentsOnline\MoviesRentsOnline.csproj", "{228F7788-10EE-481C-BBB5-059D3F48330D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesRentsOnline.Tests", "MoviesRentsOnline.Tests\MoviesRentsOnline.Tests.csproj", "{2801D25E-DE84-44D1-B888-5EADE6888383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{228F7788-10EE-481C-BBB5-059D3F48330D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228F7788-10EE-481C-BBB5-059D3F48330D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228F7788-10EE-481C-BBB5-059D3F48330D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228F7788-10EE-481C-BBB5-059D3F48330D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2801D25E-DE84-44D1-B888-5EADE6888383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2801D25E-DE84-44D1-B888-5EADE6888383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2801D25E-DE84-44D1-B888-5EADE6888383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2801D25E-DE84-44D1-B888-5EADE6888383}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADA61F55-5E2B-4684-B0FC-69116C9CDE61}
+	EndGlobalSection
+EndGlobal
